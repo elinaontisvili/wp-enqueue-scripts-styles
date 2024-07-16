@@ -1,5 +1,5 @@
 <?php
-// Function to enqueue custom styles and scripts
+
 function custom_enqueue_scripts() {
     // enqueue a custom stylesheet
     wp_enqueue_style('custom-style', get_template_directory_uri() . '/css/custom-style.css');
