@@ -1,1 +1,2 @@
-Properly includes CSS and JavaScript files in the theme or plugin.
+The snippet should be pasted into functions.php file.
+custom-style.css and custom-script.js should be created.
